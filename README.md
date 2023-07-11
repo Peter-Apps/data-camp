@@ -4,6 +4,7 @@ These activities were developed for QuarkNet Data Camp, a  weeklong summer works
 
 # Notebook Files    
 - **Intro to Jupyter**: start here if you haven't used a Juypter notebook before. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/data-camp/blob/main/intro.ipynb) or [download](https://github.com/QuarkNet-HEP/data-camp/raw/main/intro.ipynb).
+- **How We Roll**: A notebook to complement a dice rolling histogram activity. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/data-camp/blob/main/How_We_Roll.ipynb) or [download](https://github.com/QuarkNet-HEP/data-camp/raw/main/How_We_Roll.ipynb).
 - **Theta & Phi Graphing**: Plot CMS particle events as a function of Theta or Phi to learn about the structure of the detector. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/data-camp/blob/main/Theta_%26_Phi_Graphing_Activity.ipynb) or [download](https://github.com/QuarkNet-HEP/data-camp/raw/main/Theta_%26_Phi_Graphing_Activity.ipynb)   
 - **CMS Event Analysis**: Analyze particle events form the CMS detector at CERN. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/data-camp/blob/main/CMS_event_analysis.ipynb) or [download](https://github.com/QuarkNet-HEP/data-camp/raw/main/CMS_event_analysis.ipynb).  
 
