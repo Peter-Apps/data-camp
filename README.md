@@ -20,3 +20,14 @@ These can be found in the /data folder and are used in mass plot activities. All
 * Formatted Muon Data     https://drive.google.com/uc?export=download&id=1uIIfjiR4CGJ6W83tZF0glzQegzE7ZyXm&confirm=t
 * Complete Electron Data  https://drive.google.com/uc?export=download&id=119M3SSY6LEaG3bhYpr9Ric_NFZk8_uGl&confirm=t
 * Complete Muon Data      https://drive.google.com/uc?export=download&id=1UIgcmWP6Jzk2CX2aZqG9cSzR5vGBbQjk&confirm=t
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
